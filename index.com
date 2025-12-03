@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>GameX – Play. Win. Repeat.</title>
+  <title> Khiladi adda – Play. Win. Repeat.</title>
   <style>
     :root{
       --bg:#0b0810;
